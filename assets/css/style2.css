@@ -192,10 +192,8 @@ bg.green{background: #48cfad; color:#fff;}
 .section.portfolio .gallery .gallery-item .image img{
   width: 100%; height: 360px;
   border: 4px solid #fff; box-shadow: 2px 1px 4px 2px rgba(0,0,0,0.24);
-  filter: grayscale(1);
 }
 .section.portfolio .gallery .gallery-item .image img:hover{
-  filter:grayscale(0);
   border: 4px solid #fff; box-shadow: 2px 1px 4px 2px rgba(0,0,0,0.16);
   transition: .4s;
 }
