@@ -1,9 +1,0 @@
-{
-    "type": "sftp",
-    "host": "sfzsystem.com",
-    "username": "yujin1644",
-    "password": "yujin0821!",
-    "port": 22,
-    "remotePath": "/yujin1644/www/",
-    "uploadOnSave": true
-}
