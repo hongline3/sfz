@@ -100,7 +100,6 @@ bg.green{background: #48cfad; color:#fff;}
   display: none;
   width: 20%; height: 100%;
   background-size:cover;
-  filter:grayscale(0);
   color:#fff;
   cursor: pointer;
 }
